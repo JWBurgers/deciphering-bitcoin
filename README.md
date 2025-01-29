@@ -20,6 +20,15 @@ Students without any technical background would often struggle with completing t
 While university students are intended to be a key audience, *Deciphering Bitcoin* should have appeal to a much wider audience. Anyone that wants to break-through in the Bitcoin industry, for example, might find this book a great place to start. 
 
 
+## Documentation system
+
+Citations are placed in notes at the end of each chapter. For legal citations, full references are given within the endnotes. In all other cases, short citations are utilized. For those citations, there is a list of references at the end of this book. 
+
+Some notes are without any specific citations. These are not demarcated in some particular way from notes that include text citations. Instead, all notes are organized according to a single numbering system per chapter. 
+
+Sources that are really only available online are indicated so by the phrase “Available at *URL*” at the end of a reference. Sources that are also circulating in print form are indicated so by the phrase “Also available at *URL*” at the end of a reference.  
+ 
+
 ## Contributions
 
 Any contributions are most welcome. Please have a look at the [CONTRIBUTING](CONTRIBUTING.md) file in the repository for some guidelines on how to support the project.
@@ -43,3 +52,18 @@ First, using the textbook to teach classes at universities, research institutes,
 Second, for the purpose of making contributions to the textbook, you can fork the respository, make alterations to the text, and create a pull request. This does not violate the clause that you cannot redistribute the work if you remix, transform, or build upon it. You cannot, however, fork the repository and start a project that remixes, transforms, or builds on the textbook. In that case, you are creating a derrivative work. 
 
 Third, copying and distributing any historical state of the repository is permitted. But it is strongly recommended that any copies you distribute pertain to its latest state.
+
+
+## Current progress
+
+At the moment, I am working on the first part of the book called *Money and Payments*. It will consist of an introduction, five chapters, and some concluding observations. The chapters are as follows:
+
+* Chapter 1: Banks and banking
+* Chapter 2: Bank payments
+* Chapter 3: Beyond bank payments
+* Chapter 4: Money
+* Chapter 5: Centralized architectures
+
+At the moment, the introduction is uploaded as well as most of Chapter 1. 
+
+

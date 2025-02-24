@@ -100,7 +100,11 @@ Khiaonarong, Tanai and David Humphrey. 2019. Cash use across countries and the d
 
 Khiaonarong, Tania and David Humphrey. 2023. Measurement and use of cash by half the world's population. *IMF Working Paper*, no. 62. 
 
-Kopf, Edwin. 1927. The early history of the annuity. *Proceedings of the Casualty Actuarial Society*, 13, 225-266.  
+Kjos, Ann. 2007. The merchant-acquiring side of the payment card industry: Structures, operations, and challenges. *Federal Reserve Bank of Philadelphia Payments Card Center Discussion Paper*, no. 07-12. Available at [https://www.philadelphiafed.org/-/media/frbp/assets/consumer-finance/discussion-papers/D2007OctoberMerchantAcquiring.pdf](https://www.philadelphiafed.org/-/media/frbp/assets/consumer-finance/discussion-papers/D2007OctoberMerchantAcquiring.pdf). 
+
+Kopf, Edwin. 1927. The early history of the annuity. *Proceedings of the Casualty Actuarial Society*, 13, 225-266. 
+
+Mastercard. 2025. Settlement bank accounts. Website. Available at [https://developer.mastercard.com/cross-border-services/documentation/support/mts-settlement/settlement-bank-accounts/](https://developer.mastercard.com/cross-border-services/documentation/support/mts-settlement/settlement-bank-accounts/). 
 
 McAndrews, James and Dean Vartin. 2022. The use of liquidity in CHIPS. New York: The Clearing House. Available at [https://media.theclearinghouse.org/-/media/New/TCH/Documents/Payment-Systems/CHIPS_Liquidity_Algorithm_April_2022.pdf](https://media.theclearinghouse.org/-/media/New/TCH/Documents/Payment-Systems/CHIPS_Liquidity_Algorithm_April_2022.pdf). 
 
@@ -117,6 +121,8 @@ Moss, David. 2010. The Dojima rice market and the origins of futures trading. *H
 Mueller, Reinhold and Frederic Lane. 2019. *Money and Banking in Medieval and Renaissance Venice: Volume I; Coins and Moneys of Account*. Baltimore: Johns Hopkins University Press. 
 
 Nacha. 2024. ACH network volume and value statistics. Herndon, Virginia: Nacha. Available at [https://www.nacha.org/content/ach-network-volume-and-value-statistics](https://www.nacha.org/content/ach-network-volume-and-value-statistics).  
+
+Nilson Report. 2023. 
 
 Office of the Comptroller of the Currency (OCC). 2004. *Comptroller's Handbook: Related Organizations*. Washington, D.C.: OCC. Also available at [https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/related-organizations/pub-ch-related-organizations.pdf](https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/related-organizations/pub-ch-related-organizations.pdf). 
 
@@ -140,11 +146,11 @@ Schaede, Ulrike. 1989. Forwards and futures in Tokugawa-Period Japan: A new pers
 
 Scott, Andrew. 2022. An analysis of bank charters and selected policy issues. *Congressional Research Service Reports*, no. R47014. Available at [https://crsreports.congress.gov/product/pdf/R/R47014](https://crsreports.congress.gov/product/pdf/R/R47014). 
 
+Shirai, Sayuri, and Eric Alexander Sugandi. 2019. What explains the global growing demand for cash? *ADBI Working Paper Series*, no. 10006. Available at [https://www.adb.org/sites/default/files/publication/526906/adbi-wp1006.pdf](https://www.adb.org/sites/default/files/publication/526906/adbi-wp1006.pdf).
+
 Skinner, Patricia, ed. 2003. *The Jews in Medieval Britain: Historical, Literal, and Archeological Perspectives*. Woodbridge, England: The Boydell Press. 
 
 Sveriges Riksbank. 2024. *Payments Report 2024*. Stockholm: Sveriges Riksbank. Available at [https://www.riksbank.se/globalassets/media/rapporter/betalningsrapport/2024/engelsk/payments-report-2024.pdf](https://www.riksbank.se/globalassets/media/rapporter/betalningsrapport/2024/engelsk/payments-report-2024.pdf). 
-
-Shirai, Sayuri, and Eric Alexander Sugandi. 2019. What explains the global growing demand for cash? *ADBI Working Paper Series*, no. 10006. Available at [https://www.adb.org/sites/default/files/publication/526906/adbi-wp1006.pdf](https://www.adb.org/sites/default/files/publication/526906/adbi-wp1006.pdf).
 
 Thayer, Theodore. 1953. The land-bank system in the American colonies. *The Journal of Economic History*, 13, 145-149. 
 

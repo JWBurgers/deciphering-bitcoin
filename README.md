@@ -64,6 +64,4 @@ At the moment, I am working on the first part of the book called *Money and Paym
 * Chapter 4: Money
 * Chapter 5: Centralized architectures
 
-At the moment, the introduction is uploaded as well as most of Chapter 1. 
-
-
+At the moment, completed initial drafts of the *Introduction* and *Chhapter 1* have been committed, as well as near complete versions of *Chapter 2* and *Chapter 3*.  

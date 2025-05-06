@@ -2,7 +2,7 @@
 
 ## Project description
 
-*Deciphering Bitcoin: An Introduction to Its Design, Purpose, and Reality* will be an academic textbook about Bitcoin. One that offers insight into how Bitcoin works technically, but also delves into the breadth of less technical issues that are crucial to understanding Bitcoin. It will focus on three interrelated main questions:
+*Deciphering Bitcoin: An Introduction to Its Design, Purpose, and Reality* will be an academic textbook about Bitcoin, one that offers insight into how Bitcoin works technically, but also delves into the breadth of less technical issues that are crucial to understanding Bitcoin. It will focus on three interrelated main questions:
 
 * What is Bitcoin and how does it work? 
 * What is the purpose of Bitcoin?
@@ -13,9 +13,12 @@ This book is being written in public. Changes to the text will be regularly comm
 
 ## Target audience
 
-The *Deciphering Bitcoin* textbook will be written at such a level, so that later-stage undergraduate and master students with at least some mathematical and/or technical background can work through it entirely. Think, for example, of students in computer science, engineering, mathematics, environmental science, climatology, economics, innovation management, and technical management. 
+The core audience for the *Deciphering Bitcoin* textbook is business students at the undergraduate and master levels. While the primary purpose is to decipher Bitcoin, the textbook will offer substantial background in two other areas of knowledge crucial for any modern business student.
 
-Students without any technical background would often struggle with completing the entire book. However, the aim of the textbook is to be well-modularized, so that less technical students can also have a smooth reading experience only working through some parts of it. 
+* The historical and modern institutions and practices surrounding money, payments, and banking
+* General technological topics, including computer communication, cryptography, programming, and software development.
+
+The textbook can also serve students well in other disciplines. Students with a strong mathematical and technical background will probably want to skip over some of the sections intended purely to introduce certain topics on technology in a basic fashion.    
 
 While university students are intended to be a key audience, *Deciphering Bitcoin* should have appeal to a much wider audience. Anyone that wants to break-through in the Bitcoin industry, for example, might find this book a great place to start. 
 
@@ -59,9 +62,10 @@ Third, copying and distributing any historical state of the repository is permit
 At the moment, I am working on the first part of the book called *Money and Payments*. It will consist of an introduction, five chapters, and some concluding observations. The chapters are as follows:
 
 * Chapter 1: Banks and banking
-* Chapter 2: Bank payments
-* Chapter 3: Beyond bank payments
-* Chapter 4: Money
-* Chapter 5: Centralized architectures
+* Chapter 2: Money, payments, and banking until the early modern period
+* Chapter 3: Money, payments, and banking in Colonial America
+* Chapter 4: Bank payments
+* Chapter 5: Beyond bank payments
+* Chapter 6: Money
 
-At the moment, completed initial drafts of the *Introduction* and *Chhapter 1* have been committed, as well as near complete versions of *Chapter 2* and *Chapter 3*.  
+At the moment, completed initial drafts of the *Introduction* and *Chapter 1* have been committed, as well as near complete drafts of *Chapter 4* and *Chapter 5*.  

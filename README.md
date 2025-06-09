@@ -13,24 +13,31 @@ This book is being written in public. Changes to the text will be regularly comm
 
 ## Target audience
 
-The core audience for the *Deciphering Bitcoin* textbook is business students at the undergraduate and master levels. While the primary purpose is to decipher Bitcoin, the textbook will offer substantial background in two other areas of knowledge crucial for any modern business student.
+The core audience for the *Deciphering Bitcoin* textbook is business students at the late undergraduate and master levels. While the primary purpose is to decipher Bitcoin, the textbook will offer substantial background in two other areas of knowledge crucial for any modern business student.
 
 * The historical and modern institutions and practices surrounding money, payments, and banking
 * General technological topics, including computer communication, cryptography, programming, and software development.
 
-The textbook can also serve students well in other disciplines. Students with a strong mathematical and technical background will probably want to skip over some of the sections intended purely to introduce certain topics on technology in a basic fashion.    
-
-While university students are intended to be a key audience, *Deciphering Bitcoin* should have appeal to a much wider audience. Anyone that wants to break-through in the Bitcoin industry, for example, might find this book a great place to start. 
+The textbook can also serve students well in other disciplines. Students with a strong mathematical and technical background will probably want to skip over some of the sections intended purely to introduce certain topics on technology. While university students are intended to be a key audience, *Deciphering Bitcoin* should have appeal to a much wider audience. Anyone that wants to break-through in the Bitcoin industry, for example, might find this book a great place to start. Policymakers and journalists may also find it a helpful resource. 
 
 
 ## Documentation system
 
-Citations are placed in notes at the end of each chapter. For legal citations, full references are given within the endnotes. In all other cases, short citations are utilized. For those citations, there is a list of references at the end of this book. 
+Citations are placed in notes at the end of each chapter. For legal citations, full references are given within the endnotes. In all other cases, short citations are utilized. A list of references is found at the end of this book. 
 
 Some notes are without any specific citations. These are not demarcated in some particular way from notes that include text citations. Instead, all notes are organized according to a single numbering system per chapter. 
 
-Sources that are really only available online are indicated so by the phrase “Available at *URL*” at the end of a reference. Sources that are also circulating in print form are indicated so by the phrase “Also available at *URL*” at the end of a reference.  
- 
+Online locations for references are generally only provided for journal articles, papers, blog posts, and so on, in case of open access (if known). Sources that are really only available online are indicated so by the phrase “Available at [URL]” at the end of a refer-ence. Sources that are also circulating in print form are indicated so by the phrase “Also available at [URL]” at the end of a reference. 
+
+
+## English legal citations
+
+For readers not familiar with English legal notation, please note the following.
+
+Acts of Parliament typically have a short name which includes a date. Before 1963, the year often refers to starting year of the responsible Parliamentary session. It is not necessarily the same year that the act was passed by Parliament and granted royal assent. 
+
+For example, in 1720, the *Bubble Act 1719*, was passed by Parliament and granted royal assent. As the Parliamentary session started in 1719, however, the official short name is *Bubble Act 1719*. In the literature, authors sometimes attempt to avoid confusion by using the *Bubble Act 1720* as a short name. However, we will stick here to official short names. 
+
 
 ## Contributions
 
@@ -59,13 +66,14 @@ Third, copying and distributing any historical state of the repository is permit
 
 ## Current progress
 
-At the moment, I am working on the first part of the book called *Money and Payments*. It will consist of an introduction, five chapters, and some concluding observations. The chapters are as follows:
+At the moment, I am working on the first part of the book called *Money, Payments, and Banking*. It will consist of an introduction and seven chapters. The chapters are as follows:
 
 * Chapter 1: Banks and banking
-* Chapter 2: Money, payments, and banking until the early modern period
-* Chapter 3: Money, payments, and banking in Colonial America
-* Chapter 4: Bank payments
-* Chapter 5: Beyond bank payments
-* Chapter 6: Money
+* Chapter 2: Joint stock companies and corporations
+* Chapter 3: Money, payments, and banking until the early modern period
+* Chapter 4: Money, payments, and banking in Colonial America
+* Chapter 5: Bank payments
+* Chapter 6: Beyond bank payments
+* Chapter 7: Money
 
-At the moment, completed initial drafts of the *Introduction* and *Chapter 1* have been committed, as well as near complete drafts of *Chapter 4* and *Chapter 5*.  
+At the moment, completed initial drafts of the *Introduction*, *Chapter 1*, *Chapter 2* have been committed, as well as near complete drafts of *Chapter 5* and *Chapter 6*.  

@@ -1,5 +1,7 @@
 # References
 
+Acheson, Noel, Charles Hickson, and John Turner. 2010. Does limited liability matter? Evidence from nineteenth-century British banking. *Review of Law & Economics*, 6, 247-273.  
+
 American-Israeli Cooperative Enterprise (AICE). 2025. Banking and bankers. Available at [https://www.jewishvirtuallibrary.org/banking-and-bankers](https://www.jewishvirtuallibrary.org/banking-and-bankers).  
 
 Andreau, Jean. 1999. *Banking and Business in the Roman World*, trans. Janet Lloyd. Cambridge: Cambridge University Press. 
@@ -9,6 +11,8 @@ Anonymous. 1676a. Mystery of the new fashioned goldsmiths or bankers: Their rife
 Anonymous. 1676b. Is not the hand of Joab in all this? Or an enquiry into the grounds of a late pamphlet intituled, the mystery of the new-fashioned-goldsmiths, or bankers, &c. and answering the exceptions in it to the bankers trade. London. Available from the *Early English Books Online* collection. 
 
 Aristotle. 1996. *The Politics*. In *The Politics and the Constitution of the Athens*, ed. S. Everson, 9–208. Cambridge: Cambridge University Press. 
+
+Bank of England. n.d. Index to the book of the subscriptions 1694. Available at [https://www.bankofengland.co.uk/-/media/boe/files/archive/original-bank-subscribers/1694.pdf](https://www.bankofengland.co.uk/-/media/boe/files/archive/original-bank-subscribers/1694.pdf). 
 
 Barclays. 2025. Our history. Website. Available at [https://home.barclays/who-we-are/our-history/]. 
 
@@ -32,6 +36,8 @@ Cartwright, Mark. 2022. English Civil Wars. In *World History Encyclopedia*. Ava
 
 C. Hoare & Company. 2025. Our history. Website. Available at [https://www.hoaresbank.co.uk/our-history](https://www.hoaresbank.co.uk/our-history). 
 
+Church, Adam. 2018. The rise-and-fall of leading international financial centers: Factors and application. *Michigan Business and Entrepreneurial Law Review*, 7, 283-340. 
+
 Clair, Robert and Paula Tucker. 1989. Interstate banking and the federal reserve: A historical perspective. *Economic Review*, November, 1-20. 
 
 Collins, Andrew and John Walsh. 2014. Fractional reserve banking in the Roman Republic and Empire. *Ancient Society*, 44, 179-212. 
@@ -46,9 +52,13 @@ Committee on Payments and Market Infrastructures (CPMI). 2016. *Correspondent Ba
 
 Coutts & Company. 2025. Our history. Website. Available at [https://www.coutts.com/about/history.html](https://www.coutts.com/about/history.html). 
 
+Dari-Mattiaci, Giusseppe, Oscar Gelderblom, Joost Jonker, and Enrico Perotti. 2017. The emergence of the corporate form. *Journal of Law, Economics, and Organization*, 33, 193-236. 
+
 Davis, Andrew. 1901. *Currency and Banking in the Province of the Massachussets Bay: Part II; Banking*. New York: Macmillan Company. 
 
 De Roover, Raymond. 1948. *Money, Banking and Credit in Mediaeval Bruges: Italian merchant bankers, Lombards and money changers; A Study in the Origins of Banking*. Cambridge, MA: Mediaeval Academy of America. 
+
+De Roover, Raymond. 1954 \[1974\]. New interpretations of the history of banking. In *Business, Banking, and Economic Thought in Late Medieval and Early Modern Europe: Selected Studies of Rayomond de Roover*, ed. Julius Kirshner, 200-38. Chicago: The University of Chicago Press.  
 
 De Roover, Raymond. 1963. *The Rise and Decline of the Medici Bank: 1397-1494*. Cambridge, MA: Harvard University Press. 
 
@@ -94,27 +104,49 @@ Franklin, Benjamin. 1729. A modest enquiry into the nature and necessity of a pa
 
 Gabrielsen, Vincent. 2005. Banking and credit operations in Hellenistic times. In *Making, Moving and Managing: The New World of Ancient Economies, 323-31 BC*, ed. Z. Archibald, J. Davies, and V. Gabrielsen, 136-64. Oxford: Oxbow Books. 
 
+Galbraith, John. 1993. *A Short History of Financial Euphoria*. New York: Viking Penguin. 
+
+Gelderblom, Oscar, Abe De Jong, and Joost Jonker. 2013. The formative years of the modern corporation. *Journal of Economic History*, 73, 1050-76. 
+
 Gibbons, James. \[1859\] 1968. *The Banks of New York, Their Dealers, The Clearing House, and the Panic of 1857*. Westport, CT: Greenwood Press.  
 
 Goldthwaite, Richard. 1985. Local banking in Renaissance Florence. *Journal of European Economic History*, 14, 5-55. 
 
 Goldthwaite, Richard. 1987. The Medici bank and the world of Florentine capitalism. *Past & Present*, 114, 3-31. 
 
+Goodhart, Charles and Natacha Postel-Vinay. 2024. The City of Glasgow Bank Failure and the case for liability reform. *Economic History Working Papers*, no. 367. Available at [https://www.lse.ac.uk/Economic-History/Assets/Documents/WorkingPapers/Economic-History/2024/WP367.pdf](https://www.lse.ac.uk/Economic-History/Assets/Documents/WorkingPapers/Economic-History/2024/WP367.pdf). 
+
 Gorton, Gary. 1984. Private clearing houses and the origins of central banking. *Business Review*, The Federal Reserve Bank of Philadelphia, January/February, 3-12. 
 
+Grossman, Richard. 2010. *Unsettled Account: The Evolution of Banking in the Industrialized World Since 1800*. Princeton, NJ: Princeton University Press. 
+
 Gyford, Phil. 2025. The diary of Samuel Pepys: Daily entries from the 17th century diary. Website. Available at [https://www.pepysdiary.com/](https://www.pepysdiary.com/). 
+
+Hansmann, Henry, Reinier Kraakman, and Richard Squire. 2006. Law and the rise of the firm. *Harvard Law Review*, 119, 1333-403. 
+
+Harris, Ron. 1994. The Bubble Act: Its passage and its effects on business organization. *The Journal of Economic History*, 54, 610-27. 
+
+Harris, Ron. 2000. *Industrializing English Law: Entrepreneurship and Business Organization 1720-1844. Cambridge: Cambridge University Press. 
+
+Harris, Ron. 2020. A new understanding of the history of limited liability: An invitation for theoretical reframing. 
 
 Herbst-Murphy, Susan. 2013. Clearing and settlement of interbank card transactions: A MasterCard tutorial for the Federal Reserve payments analysts. Payment cards center discussion paper series, Federal Reserve Bank of Philadelphia, No. 13-1. Available at [https://www.philadelphiafed.org/-/media/frbp/assets/consumer-finance/discussion-papers/d-2013-october-clearing-settlement.pdf](https://www.philadelphiafed.org/-/media/frbp/assets/consumer-finance/discussion-papers/d-2013-october-clearing-settlement.pdf). 
 
 Herbst-Murphy, Susan. 2018. Credit card landscape update. Payment cards center discussion paper series, Federal Reserve Bank of Philadelphia, No. 18-1. Available at [https://www.philadelphiafed.org/-/media/frbp/assets/consumer-finance/discussion-papers/dp18-01.pdf](https://www.philadelphiafed.org/-/media/frbp/assets/consumer-finance/discussion-papers/dp18-01.pdf). 
 
+Hilt, Eric. 2017. Corporation law and the general shift toward open access in the antebellum United States. In *Organizations, Civil Society, and the Roots of Development*, ed. N. Lamoreaux and J. Wallis, 147-77. Chicago: University of Chicago Press. 
+
 Horsefield, John. 1977. The beginnings of paper money in England. *Journal of European Economic History*, 6, 117-132. 
 
-Hou, Victor. 1997. Derivatives and dialectics: The evolution of the Chinese futures markets. *New York University Law Review*, 72, 175-231.  
+Hou, Victor. 1997. Derivatives and dialectics: The evolution of the Chinese futures markets. *New York University Law Review*, 72, 175-231.
 
 Humphrey, David, Lawrence Pulley, and Jukka Vesala. 1996. Cash, paper, and electronic payments: A cross-country analysis. *Journal of Money, Credit, and Banking*, 28, 914-39. 
 
 Humphrey, David, Setsuya Sato, Masayoshi Tsurumi, and Jukka Vesala. 1996. The evolution of payments in Europe, Japan, and the United States: Lessons for emerging market economies. *Policy Research Working Paper*, no. 1676, the World Bank. 
+
+Hunt, Bishop. 1935. The joint-stock company in England, 1800-1825. *Journal of Political Economy*, 43, 1-33. 
+
+Ireland, Paddy. 1984. The rise of the limited liability company. *International Journal of the Sociology of the Law*, 12, 239-60. 
 
 Jacobs, Joseph. 1893. *The Jews of Angevin England*. London: David Nutt.
 
@@ -140,6 +172,8 @@ Khiaonarong, Tania and David Humphrey. 2023. Measurement and use of cash by half
 
 Kjos, Ann. 2007. The merchant-acquiring side of the payment card industry: Structures, operations, and challenges. *Federal Reserve Bank of Philadelphia Payments Card Center Discussion Paper*, no. 07-12. Available at [https://www.philadelphiafed.org/-/media/frbp/assets/consumer-finance/discussion-papers/D2007OctoberMerchantAcquiring.pdf](https://www.philadelphiafed.org/-/media/frbp/assets/consumer-finance/discussion-papers/D2007OctoberMerchantAcquiring.pdf). 
 
+Kleer, Richard. 2015. Riding a wave: The Company's role in the South Sea bubble. *Economic History Review*, 68, 264-285. 
+
 Kohn, Meir. 1999a. Bills of exchange and the money market to 1600. *Working paper*, 99-04. Available at [https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/6/1163/files/2017/03/99-04.pdf](https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/6/1163/files/2017/03/99-04.pdf). 
 
 Kohn, Meir. 1999b. Early deposit banking. *Working paper*, 99-03. Available at [https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/6/1163/files/2017/03/99-03.pdf](https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/6/1163/files/2017/03/99-03.pdf). 
@@ -155,6 +189,8 @@ Kohn, Meir. 1999f. The capital market before 1600. *Working paper*, 99-06. Avail
 Kopf, Edwin. 1927. The early history of the annuity. *Proceedings of the Casualty Actuarial Society*, 13, 225-266. 
 
 Krekić, Bariša. 1979. Italian creditors in Dubrovnik (Ragusa) and the Balkan trade, thirteenth through fifteenth centuries. In *The Dawn of Modern Banking, ed. Center for Medieval and Renaissance Studies (University of California), 241-254. New Haven: Yale University Press. 
+
+Lipton, Phillip. 2016. The evolution of the English joint stock company to 1800: An institutional perspective. *Monash University Department of Business Law & Taxation Research Paper*, no. 19. Available at [https://ssrn.com/abstract=1413502](https://ssrn.com/abstract=1413502).  
 
 Mastercard. 2025. Settlement bank accounts. Website. Available at [https://developer.mastercard.com/cross-border-services/documentation/support/mts-settlement/settlement-bank-accounts/](https://developer.mastercard.com/cross-border-services/documentation/support/mts-settlement/settlement-bank-accounts/). 
 
@@ -188,6 +224,8 @@ Office of the Comptroller of the Currency (OCC). 2021. *Comptroller's Licensing 
 
 Ohlmeyer, Jane. 2025. English Civil Wars. In *Encyclopaedia Britannica*. Available at [https://www.britannica.com/event/English-Civil-Wars](https://www.britannica.com/event/English-Civil-Wars). 
 
+Padgett, John and Paul McLean. 2006. Organizational invention and elite transformation: The birth of partnership systems in Renaissance Florence. *The American Journal of Sociology*, 111, 1463-1568. 
+
 Poitras, Geoffrey. 2018. *Equity Capital: From Ancient Partnerships to Modern Exchange Traded Funds*. Abingdon, England: Routledge. 
 
 Pol, Ronald. 2020. Anti-money laundering: The world's least effective policy experiment? Together, we can fix it. *Policy Design and Practice*, 3, 73-94. 
@@ -199,6 +237,8 @@ Prestwich, Michael. 1979. Italian merchants in the late thirteenth and early fou
 Preussner, Adolph. 1928. The earliest traces of negotiable instruments. *The American Journal of Semitic Languages and Literatures*, 44, 88-107. 
 
 Priest, Claire. 2001. Currency policies and legal development in colonial America. *The Yale Law Journal*, 110, 1303-1405. 
+
+Pryor, John. 1977. The origins of the commenda contract. *Speculum*, 52, 5-37. 
 
 Raboniwitz, Jacob. 1956. Origin of the negotiable promissory note. *University of Pennsylvania Law Review*, 104, 927-939. 
 
@@ -220,13 +260,23 @@ Shirai, Sayuri, and Eric Alexander Sugandi. 2019. What explains the global growi
 
 Skinner, Patricia, ed. 2003. *The Jews in Medieval Britain: Historical, Literal, and Archeological Perspectives*. Woodbridge, England: The Boydell Press. 
 
+Smith, Adam. \[1776\] 1976. *An Inquiry into the Nature and Causes of the Wealth of Nations*. Ed. E. Cannan. Chicago: The University of Chicago Press. 
+
+Stern, Philip. 2017. The corporation in history. In *The Corporation: A Critical, Multi-Disciplinary Handbook*, ed. G. Baars and A. Spicer, 21-46. 
+
 Sveriges Riksbank. 2024. *Payments Report 2024*. Stockholm: Sveriges Riksbank. Available at [https://www.riksbank.se/globalassets/media/rapporter/betalningsrapport/2024/engelsk/payments-report-2024.pdf](https://www.riksbank.se/globalassets/media/rapporter/betalningsrapport/2024/engelsk/payments-report-2024.pdf). 
 
 Temin, Peter and Hans-Joachim Voth. 2013. *Prometheus Shackled: Goldsmith Banks and England's Financial Revolution after 1700*. New York: Oxford University Press. 
 
 Thayer, Theodore. 1953. The land-bank system in the American colonies. *The Journal of Economic History*, 13, 145-149. 
 
+Tijssens, Gijsbert. 1720. *De Windhandel, of Bubbles Compagnien*. Amsterdam: Hendrik Bosch.  
+
+Todd, Geoffrey. 1932. Some aspects of joint stock companies, 1844-1900. *The Economic History Review*, 4, 46-71. 
+
 Trenerry, Charles. 1926 \[2009\]. *The origin and early history of insurance including the contract of bottomry*. Clark, NJ: The Lawbook Exchange. 
+
+Turner, John. 2017. The development of English company law before 1900. *QUCEH Working Paper Series*, no. 2017-01. Available at [https://www.econstor.eu/bitstream/10419/149911/1/877815712.pdf](https://www.econstor.eu/bitstream/10419/149911/1/877815712.pdf). 
 
 Usher, Abbott Payson. 1943. *The Early History of Deposit Banking in Mediterranean Europe*, vol. I. New York: Russell & Russell. 
 

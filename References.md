@@ -16,11 +16,17 @@ Bank of England. n.d. Index to the book of the subscriptions 1694. Available at 
 
 Barclays. 2025. Our history. Website. Available at [https://home.barclays/who-we-are/our-history/]. 
 
+Baumgartl, Matthias. 2025. Liquidity management through financial service providers and the role of fairs: the case of the Augsburg merchant David Gauger and the Bolzano merchant David Wagner. In *Fairs, Cities, and Merchants: Spatiotemporal analyses (14th-17th century), ed. J.-L. Gaulin and S. Rau, 337-57. Berlin: Walter de Gruyter. 
+
+Bautier, Robert-Henri. 1970. The Fairs of Champagne. In *Essays in French Economic History*, ed. R. Cameron, 42-63. Homewood, IL: Richard D. Irwin. 
+
 Baxter, William. 1945. *The House of Hancock: Business in Boston, 1724-1775*. Cambridge, MA: Harvard University Press.  
 
 Bech, Morten, Umar Faruqui, Frederik Ougaard, and Cristina Picillo. 2018. Payments are a-changin', but cash still rules. *BIS Quarterly Review*, March, 67-80. Also available at [https://www.bis.org/publ/qtrpdf/r_qt1803g.htm](https://www.bis.org/publ/qtrpdf/r_qt1803g.htm). 
 
 Bech, Morten, Yuuki Shimizu, and Paul Wong. 2017. The quest for speed in payments. *BIS Quarterly Review*, March, 57-68. 
+
+Bell, Adrian, Chris Brooks, and Tony Moore. 2017. Cambium non est mutuum: Exchange and interest rates in medieval Europe. *The Economic History Review*, 70, 373-96. 
 
 Benson, Bruce. 1989. The spontaneous evolution of commercial law. *Southern Economic Journal*, 55, 644-61. 
 
@@ -29,6 +35,10 @@ Benson, Carol Coye, Scott Loftesness, and Russ Jones. 2017. *Payments Systems in
 Board of Governors of the Federal Reserve System (BGFRS). 2014. The FedWire Funds Service: Assesment of compliance with the core principles for systematically important payment systems. Washington, D.C.: BGFRS. Available at [https://www.federalreserve.gov/paymentsystems/files/fedfunds_coreprinciples.pdf](https://www.federalreserve.gov/paymentsystems/files/fedfunds_coreprinciples.pdf). 
 
 Board of Governors of the Federal Reserve System (BGFRS). 2024. Master account and services database. BGFRS website. Available at [https://www.federalreserve.gov/paymentsystems/master-account-and-services-database-about.htm](https://www.federalreserve.gov/paymentsystems/master-account-and-services-database-about.htm).  
+
+Boyer-Xambue, Marie-Thérèse, Ghislaine Deleplace, and Lucien Gillard. *Private Money and Public Currencies: The 16th Century Challenge*, transl. A. Azodi. Armonk, NY: M.E. Sharpe. 
+
+Bridbury, . \[1962\] 2018. *Economic Growth: England in the Later Middle Ages*. Abingdon, UK: Routledge. 
 
 Broz, J. Lawrence and Richard Grossman. 2004. Paying for privilege: The political economy of Bank of England charters, 1694-1844. *Explorations in Economic History, 41, 48-72. 
 
@@ -56,11 +66,25 @@ Dari-Mattiaci, Giusseppe, Oscar Gelderblom, Joost Jonker, and Enrico Perotti. 20
 
 Davis, Andrew. 1901. *Currency and Banking in the Province of the Massachussets Bay: Part II; Banking*. New York: Macmillan Company. 
 
+De Maulde, René. 1878. In *Nouvelle revue historique de droit français et étranger*, vol. 2, 367-85. Paris: Editions Dalloz. 
+
+Denzel, Markus. 2025. International fairs as money, credit, and exchange markets, from the twelfth to the sixteenth centuries. In *Fairs, Cities, and Merchants: Spatiotemporal analyses (14th-17th century), ed. J.-L. Gaulin and S. Rau, 245-68. Berlin: Walter de Gruyter. 
+
+De Roover, Florence. 1940. The business records of an early Genoese notary. *Bulletin of the Business Historical Society*, 14, 41-46. 
+
+De Roover, Florence. 1941. Partnership accounts in twelfth century Genoa. *Bulletin of the Business Historical Society*, 15, 87-92. 
+
+De Roover, Raymond. 1942. Discussion on "Capitalism: Concepts and history". *Bulletin of the Business Historical Society*, 16, 34-39. 
+
+De Roover, Raymond. 1944 \[1974\]. What is dry exchange? A contribution to the study of mercantilism. In *Business, Banking, and Economic Thought in Late Medieval and Early Modern Europe: Selected Studies of Rayomond de Roover*, ed. Julius Kirshner, 183-99. Chicago: The University of Chicago Press.   
+
 De Roover, Raymond. 1948. *Money, Banking and Credit in Mediaeval Bruges: Italian merchant bankers, Lombards and money changers; A Study in the Origins of Banking*. Cambridge, MA: Mediaeval Academy of America. 
 
 De Roover, Raymond. 1954 \[1974\]. New interpretations of the history of banking. In *Business, Banking, and Economic Thought in Late Medieval and Early Modern Europe: Selected Studies of Rayomond de Roover*, ed. Julius Kirshner, 200-38. Chicago: The University of Chicago Press.  
 
-De Roover, Raymond. 1963. *The Rise and Decline of the Medici Bank: 1397-1494*. Cambridge, MA: Harvard University Press. 
+De Roover, Raymond. 1963a. The organization of trade. In *The Cambridge Economic History of Europe*, vol. 3, ed. M. Postan and H. Habbakuk, 42-118. London: Cambridge University Press.  
+
+De Roover, Raymond. 1963b. *The Rise and Decline of the Medici Bank: 1397-1494*. Cambridge, MA: Harvard University Press. 
 
 Deutsch, Gotthard and Joseph Jacobs. 1906. Banking. In the *1906 Jewish Encyclopedia: A Descriptive Record of the History, Religion, Literature, and Customs of the Jewish People from the Earliest Times to the Present Day*, ed. I. Singer, 491-3. New York: Funk and Wagnalls. Also available at [https://jewishencyclopedia.com/articles/2444-banking](https://jewishencyclopedia.com/articles/2444-banking). 
 
@@ -72,11 +96,17 @@ Dunbar, Charles. 1893. The Bank of Venice. *The Quarterly Journal of Economics*,
 
 Dylag, Matthew. 2010. The negotiability of promissory notes and bills of exchange in the time of chief justice Holt. *The Journal of Legal History*, 31, 149-75. 
 
+Epstein, Stephan. 1994. Regional fairs, institutional innovation, and economic growth in late medieval Europe. *The Economic History Review*, 47, 459-82. 
+
 Epstein, Stephan. 2000. The rise and fall of Italian city-states. In *A Comparative Study of Thirty City-State Cultures*, ed. M. Hansen, 277–94. Copenhagen: Det Kongelige Danske Videnskabernes Selskab. 
 
 European Central Bank (ECB). 2020. *Eleventh Survey on Correspondent Banking in Euro: 2019*. Frankfurt: ECB. Available at [https://www.ecb.europa.eu/pub/pdf/other/ecb.eleventhsurveycorrespondentbankingeuro202011~c280262151.en.pdf](https://www.ecb.europa.eu/pub/pdf/other/ecb.eleventhsurveycorrespondentbankingeuro202011~c280262151.en.pdf). 
 
 European Central Bank (ECB). 2022. *Study on the Payment Attitudes of Consumers in the Euro Area (SPACE): 2022*. Frankfurt: ECB. Available at [https://www.ecb.europa.eu/stats/ecb_surveys/space/shared/pdf/ecb.spacereport202212~783ffdf46e.en.pdf](https://www.ecb.europa.eu/stats/ecb_surveys/space/shared/pdf/ecb.spacereport202212~783ffdf46e.en.pdf). 
+
+Ewert, Ulf. 2025. The privileging of "new" fairs in the late medieval Holy Roman Empire: Coordination of fairs by means of privileges. In *Fairs, Cities, and Merchants: Spatiotemporal analyses (14th-17th century), ed. J.-L. Gaulin and S. Rau, 37-75. Berlin: Walter de Gruyter. 
+
+Face, Richard. 1958. Techniques of business in the trade between the Fairs of Champagne and the south of Europe in the twelfth and thirteenth centuries. *The Economic History Review*, 10, 427-38. 
 
 Faure, Alexander. 2013. Money Creation: Genesis 2; Goldsmith-Bankers and Bank Notes. *SSRN Working paper*. Available at (https://ssrn.com/abstract=2244977)[https://ssrn.com/abstract=2244977].  
 
@@ -110,6 +140,8 @@ Gelderblom, Oscar, Abe De Jong, and Joost Jonker. 2013. The formative years of t
 
 Gibbons, James. \[1859\] 1968. *The Banks of New York, Their Dealers, The Clearing House, and the Panic of 1857*. Westport, CT: Greenwood Press.  
 
+Gleeson-White, Jane. 2013. *Double Entry: How the Merchants of Venice Created Modern Finance*. London: Allen & Unwin. 
+
 Goldthwaite, Richard. 1985. Local banking in Renaissance Florence. *Journal of European Economic History*, 14, 5-55. 
 
 Goldthwaite, Richard. 1987. The Medici bank and the world of Florentine capitalism. *Past & Present*, 114, 3-31. 
@@ -118,7 +150,11 @@ Goodhart, Charles and Natacha Postel-Vinay. 2024. The City of Glasgow Bank Failu
 
 Gorton, Gary. 1984. Private clearing houses and the origins of central banking. *Business Review*, The Federal Reserve Bank of Philadelphia, January/February, 3-12. 
 
+Gras, Norman. 1942. Capitalism: Concepts and history. *Bulletin of the Business Historical Society*, 16, 21-34. 
+
 Grossman, Richard. 2010. *Unsettled Account: The Evolution of Banking in the Industrialized World Since 1800*. Princeton, NJ: Princeton University Press. 
+
+Guidi-Bruscoli, Francesco, and James Bolton. 2007. The Borromei bank research project. In *Money, Markets, and Trade in Late Medieval Europe: Essays in Honour of John H.A. Munro*, ed. L. Armstrong, I. Elbl, and M. Elbl. Leiden: Brill. 
 
 Gyford, Phil. 2025. The diary of Samuel Pepys: Daily entries from the 17th century diary. Website. Available at [https://www.pepysdiary.com/](https://www.pepysdiary.com/). 
 
@@ -146,6 +182,8 @@ Humphrey, David, Setsuya Sato, Masayoshi Tsurumi, and Jukka Vesala. 1996. The ev
 
 Hunt, Bishop. 1935. The joint-stock company in England, 1800-1825. *Journal of Political Economy*, 43, 1-33. 
 
+Hunt, Edwin. 1994. *The Medieval Super-Companies: A Study of the Peruzzi Company of Florence*. Cambridge: Cambridge University Press. 
+
 Ireland, Paddy. 1984. The rise of the limited liability company. *International Journal of the Sociology of the Law*, 12, 239-60. 
 
 Jacobs, Joseph. 1893. *The Jews of Angevin England*. London: David Nutt.
@@ -165,6 +203,10 @@ Kahn, David. 2018. S corps: A growing trend in small bank holding company format
 Kahn, Charles, Stephen Quinn, and Will Roberds. 2014. Central banks and payment systems: The evolving trade-off between cost and risk. Paper prepared for the Norges Bank Conference, Oslo. Available at [https://www.norges-bank.no/contentassets/3fba8b3a3432407d929ae9218db1ffc4/10_kahn_quinn_roberds2014.pdf](https://www.norges-bank.no/contentassets/3fba8b3a3432407d929ae9218db1ffc4/10_kahn_quinn_roberds2014.pdf). 
 
 Karan, Mehmet, Wim Westerman, and Jacob Wijngaard. 2024. *A History of Banks: From the Knights Templar to the Present Era*. Cham, Switzerland: Springer. 
+
+Kataoka, Yasuhiko. 1995. The relationship between the bookkkeeping systems of Pacioli and Schweicker. In *Studies in Accounting History: Tradition and Innovation for the Twenty-First Century*, ed. A. Tsuji and P. Garner, 159-67. 
+
+Keiley, Anthony. 1900. Bills of exchange. *The Virginia Law Register*, 6, 73-6. 
 
 Khiaonarong, Tanai and David Humphrey. 2019. Cash use across countries and the demand for central bank digital currency. *IMF Working Paper*, no. 46.
 
@@ -186,13 +228,29 @@ Kohn, Meir. 1999e. Risk instruments in the medieval and early economy. *Working 
 
 Kohn, Meir. 1999f. The capital market before 1600. *Working paper*, 99-06. Available at [https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/6/1163/files/2017/03/99-06.pdf](https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/6/1163/files/2017/03/99-06.pdf). 
 
+Kohn, Meir. 2001a. Payments and the development of finance in pre-industrial Europe. 
+
+Kohn, Meir. 2001b. Trading costs and the patterns of trade in pre-industrial Europe. 
+
+Kohn, Meir. 2001c. Trading costs, the expansion of trade and economic growth in pre-industrial Europe.
+
+Kohn, Meir. 2003a. Business organization in pre-industrial Europe. *Working paper*, 03-09. Available at [https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/6/1163/files/2017/03/14.-Business-organization.pdf](https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/6/1163/files/2017/03/14.-Business-organization.pdf). 
+
+Kohn, Meir. 2003b. Commerce in pre-industrial Europe: An introduction. *Working paper*, 03-08. Available at [https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/6/1163/files/2017/03/13.-Business-intro.pdf](https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/6/1163/files/2017/03/13.-Business-intro.pdf). 
+
 Kopf, Edwin. 1927. The early history of the annuity. *Proceedings of the Casualty Actuarial Society*, 13, 225-266. 
 
 Krekić, Bariša. 1979. Italian creditors in Dubrovnik (Ragusa) and the Balkan trade, thirteenth through fifteenth centuries. In *The Dawn of Modern Banking, ed. Center for Medieval and Renaissance Studies (University of California), 241-254. New Haven: Yale University Press. 
 
+Kuter, Mikhail, Marina Gurskaya, Angelina Andreenkova, and Artem Musaelyan. 2018. The virtual reconstruction of the earliest double-entry accounting ledger. In *Advances in Intelligent Systems and Computing*, Vol. 724, ed. J. Kacprzyk, 169-184. 
+
+Lee, Geoffrey. 1977. The coming of age of double entry: The Giovanni Farolfi ledger of 1299-1300. *The Accounting Historians Journal*, 4, 79-95. 
+
 Lipton, Phillip. 2016. The evolution of the English joint stock company to 1800: An institutional perspective. *Monash University Department of Business Law & Taxation Research Paper*, no. 19. Available at [https://ssrn.com/abstract=1413502](https://ssrn.com/abstract=1413502).  
 
 Mastercard. 2025. Settlement bank accounts. Website. Available at [https://developer.mastercard.com/cross-border-services/documentation/support/mts-settlement/settlement-bank-accounts/](https://developer.mastercard.com/cross-border-services/documentation/support/mts-settlement/settlement-bank-accounts/). 
+
+Matringe, Nadia. 2017. The fair deposit: Credit reallocation and trade finance in the early modern period. *Annales Histoires Sciences Sociales (English Edition)*, 72, 275-315. 
 
 McAndrews, James and Dean Vartin. 2022. The use of liquidity in CHIPS. New York: The Clearing House. Available at [https://media.theclearinghouse.org/-/media/New/TCH/Documents/Payment-Systems/CHIPS_Liquidity_Algorithm_April_2022.pdf](https://media.theclearinghouse.org/-/media/New/TCH/Documents/Payment-Systems/CHIPS_Liquidity_Algorithm_April_2022.pdf). 
 
@@ -210,11 +268,17 @@ Moss, David. 2010. The Dojima rice market and the origins of futures trading. *H
 
 Mueller, Reinhold and Frederic Lane. \[1985\] 2019. *Money and Banking in Medieval and Renaissance Venice: Volume I; Coins and Moneys of Account*. Baltimore: Johns Hopkins University Press. 
 
+Munro, John. 2003. The medieval origins of the Financial Revolution: Usury, rentes, and negotiability. *The International History Review*, 25, 505-62. 
+
+Munro, John. 2025. The bill of exchange, draft, or acceptance bill. Website. Available at [https://www.economics.utoronto.ca/munro5/BILLEXCH.pdf](https://www.economics.utoronto.ca/munro5/BILLEXCH.pdf). 
+
 Nacha. 2024. ACH network volume and value statistics. Herndon, Virginia: Nacha. Available at [https://www.nacha.org/content/ach-network-volume-and-value-statistics](https://www.nacha.org/content/ach-network-volume-and-value-statistics).  
 
 Nath, Aditya. 2021. Aaron of Lincoln: The jewish financier and the wealthiest man of 12th century England. *Journal of Research in Humanities and Social Science*, 9, 50-3. 
 
 NatWest Group. 2025. Messrs Drummond. Website. Available at [https://www.natwestgroup.com/heritage/companies/messrs-drummond.html](https://www.natwestgroup.com/heritage/companies/messrs-drummond.html). 
+
+Nelli, Humbert. The earliest insurance contract: A new discovery. *The Journal of Risk and Insurance*, 39, 215-220. 
 
 Nilson Report. 2023. 
 
@@ -244,11 +308,17 @@ Raboniwitz, Jacob. 1956. Origin of the negotiable promissory note. *University o
 
 Rambure, Dominique, and Alec Nacamuli. 2008. *Payment Systems: From the Salt Mines to the Board Room*. Basingstoke, UK: Palgrave Macmillan. 
 
+Rau, Susanne. 2025. Fair rhythms: On times, spaces, and experiences of fairs. In *Fairs, Cities, and Merchants: Spatiotemporal analyses (14th-17th century), ed. J.-L. Gaulin and S. Rau, 361-87. Berlin: Walter de Gruyter. 
+
 Read, Frederick. 1926. The origin, early history, and later development of bills of exchange and certain other negotiable instruments. *Canadian Bar Review*, 665, 440-59. 
 
 Richards, Richard. 1927. The evolution of paper money in England. *The Quarterly Journal of Economics*, 41, 361-404. 
 
 Richards, Richard. \[1958\] 2012. *The Early History of Banking in England*, rev. edn. Abingdon, England: Routledge.  
+
+Sangster, Alan. 2025a. The diffusion of double entry bookkeeping before 1800: Establishing a new research agenda. *Accounting Historians Journal*, 52, 95-113. 
+
+Sangster, Alan. 2025b. The emergence of double entry bookkeeping. *The Economic History Review*, 78, 499-528. 
 
 Schaede, Ulrike. 1989. Forwards and futures in Tokugawa-Period Japan: A new perspective on the Dojima rice market. *Journal of Banking and Finance*, 13, 487-513. 
 
@@ -281,6 +351,10 @@ Turner, John. 2017. The development of English company law before 1900. *QUCEH W
 Usher, Abbott Payson. 1943. *The Early History of Deposit Banking in Mediterranean Europe*, vol. I. New York: Russell & Russell. 
 
 Van Der Wee, Herman. 1977. Monetary, credit, and banking systems. In *The Cambridge Economic History of Europe: Volume 5; The Economic Organization of Early Modern Europe*, ed. E. Rich and C. Wilson, 290-392. Cambridge: Cambridge University Press. 
+
+Van Werveke. 1963. The rise of towns. In *The Cambridge Economic History of Europe*, vol. 3, ed. M. Postan and H. Habbakuk, 3-41. London: Cambridge University Press. 
+
+Verlinden, Charles. 1963. Markets and fairs. In *The Cambridge Economic History of Europe*, vol. 3, ed. M. Postan and H. Habbakuk, 119-153. London: Cambridge University Press. 
 
 Waley, Daniel. 1988. *The Italian City State Republics*. London: Longman. 
 

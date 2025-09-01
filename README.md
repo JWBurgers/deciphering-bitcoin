@@ -66,14 +66,15 @@ Third, copying and distributing any historical state of the repository is permit
 
 ## Current progress
 
-At the moment, I am working on the first part of the book called *Money, Payments, and Banking*. It will consist of an introduction and seven chapters. The chapters are as follows:
+At the moment, I am working on the first part of the book called *Money, Payments, and Banking*. It will consist of an introduction and eight chapters. The chapters are as follows:
 
 * Chapter 1: Banks and banking
 * Chapter 2: Joint stock companies and corporations
-* Chapter 3: Money, payments, and banking until the early modern period
-* Chapter 4: Money, payments, and banking in Colonial America
-* Chapter 5: Bank payments
-* Chapter 6: Beyond bank payments
-* Chapter 7: Money
+* Chapter 3: Merchant banks
+* Chapter 4: Deposit banks
+* Chapter 5: The American history of money, payments, and banking
+* Chapter 6: Bank payments
+* Chapter 7: Beyond bank payments
+* Chapter 8: Money
 
-At the moment, completed initial drafts of the *Introduction*, *Chapter 1*, *Chapter 2* have been committed, as well as near complete drafts of *Chapter 5* and *Chapter 6*.  
+At the moment, completed initial drafts of the *Introduction*, *Chapter 1*, *Chapter 2*, and *Chapter 3* have been committed, as well as near complete drafts of *Chapter 5* and *Chapter 6*.  

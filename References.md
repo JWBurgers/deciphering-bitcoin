@@ -50,6 +50,8 @@ Church, Adam. 2018. The rise-and-fall of leading international financial centers
 
 Clair, Robert and Paula Tucker. 1989. Interstate banking and the federal reserve: A historical perspective. *Economic Review*, November, 1-20. 
 
+Clark, Gregory. 2024. The Industrial Revolution: A cliometric perspective. In *Handbook of Cliometrics*, ed. C. Diebolt and M. Haupert, 699-738. Berlin: Springer-Verlag. 
+
 Collins, Andrew and John Walsh. 2014. Fractional reserve banking in the Roman Republic and Empire. *Ancient Society*, 44, 179-212. 
 
 Committee on Payment and Settlement Systems (CPSS). 2001. *Core Principles for Systematically Important Payment Systems*. Basel, Switzerland: Bank of International Settlements. Available at [https://www.bis.org/cpmi/publ/d43.htm](https://www.bis.org/cpmi/publ/d43.htm). 
@@ -69,6 +71,8 @@ Davis, Andrew. 1901. *Currency and Banking in the Province of the Massachussets 
 De Maulde, René. 1878. In *Nouvelle revue historique de droit français et étranger*, vol. 2, 367-85. Paris: Editions Dalloz. 
 
 Denzel, Markus. 2025. International fairs as money, credit, and exchange markets, from the twelfth to the sixteenth centuries. In *Fairs, Cities, and Merchants: Spatiotemporal analyses (14th-17th century), ed. J.-L. Gaulin and S. Rau, 245-68. Berlin: Walter de Gruyter. 
+
+De Pleijt, Alexandra and Jan Van Zanden. 2024. Preindustrial economic growth: Ca. 1270-1820. In *Handbook of Cliometrics*, ed. C. Diebolt and M. Haupert, 681-697. Berlin: Springer-Verlag. 
 
 De Roover, Florence. 1940. The business records of an early Genoese notary. *Bulletin of the Business Historical Society*, 14, 41-46. 
 
@@ -248,11 +252,15 @@ Lee, Geoffrey. 1977. The coming of age of double entry: The Giovanni Farolfi led
 
 Lipton, Phillip. 2016. The evolution of the English joint stock company to 1800: An institutional perspective. *Monash University Department of Business Law & Taxation Research Paper*, no. 19. Available at [https://ssrn.com/abstract=1413502](https://ssrn.com/abstract=1413502).  
 
+Maddisson, Angus. 2001. *The World Economy: A Millenial Perspective*. Paris: OECD. 
+
 Mastercard. 2025. Settlement bank accounts. Website. Available at [https://developer.mastercard.com/cross-border-services/documentation/support/mts-settlement/settlement-bank-accounts/](https://developer.mastercard.com/cross-border-services/documentation/support/mts-settlement/settlement-bank-accounts/). 
 
 Matringe, Nadia. 2017. The fair deposit: Credit reallocation and trade finance in the early modern period. *Annales Histoires Sciences Sociales (English Edition)*, 72, 275-315. 
 
 McAndrews, James and Dean Vartin. 2022. The use of liquidity in CHIPS. New York: The Clearing House. Available at [https://media.theclearinghouse.org/-/media/New/TCH/Documents/Payment-Systems/CHIPS_Liquidity_Algorithm_April_2022.pdf](https://media.theclearinghouse.org/-/media/New/TCH/Documents/Payment-Systems/CHIPS_Liquidity_Algorithm_April_2022.pdf). 
+
+McCusker, John, and Russell Menard. \[1985\] 1991. *The Economy of British America, 1607-1789*. Chapel Hill: The University of North Carolina Press.
 
 Melton, Frank. 1978. Goldsmiths' notes, 1654-1655. *Journal of the Society of Archivists*, 6, 30-1. 
 
@@ -289,6 +297,8 @@ Office of the Comptroller of the Currency (OCC). 2021. *Comptroller's Licensing 
 Ohlmeyer, Jane. 2025. English Civil Wars. In *Encyclopaedia Britannica*. Available at [https://www.britannica.com/event/English-Civil-Wars](https://www.britannica.com/event/English-Civil-Wars). 
 
 Padgett, John and Paul McLean. 2006. Organizational invention and elite transformation: The birth of partnership systems in Renaissance Florence. *The American Journal of Sociology*, 111, 1463-1568. 
+
+Perkins, Edwin. 1988. *The Economy of Colonial America*, 2nd edn. *The Economy of Colonial America*. New York: Columbia University Press. 
 
 Poitras, Geoffrey. 2018. *Equity Capital: From Ancient Partnerships to Modern Exchange Traded Funds*. Abingdon, England: Routledge. 
 
@@ -357,6 +367,8 @@ Van Werveke. 1963. The rise of towns. In *The Cambridge Economic History of Euro
 Verlinden, Charles. 1963. Markets and fairs. In *The Cambridge Economic History of Europe*, vol. 3, ed. M. Postan and H. Habbakuk, 119-153. London: Cambridge University Press. 
 
 Waley, Daniel. 1988. *The Italian City State Republics*. London: Longman. 
+
+Ward-Perkins, Bryan. 1997. Continuists, catastrophists, and the towns of post-Roman northern Italy. *Papers of the British School at Rome*, 65, 157-76. 
 
 Weiss, Roger. 1970. The issue of paper money in the American colonies, 1720-1774. *The Journal of Economic History*, 30, 770-784. 
 

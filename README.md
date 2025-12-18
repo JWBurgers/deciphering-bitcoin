@@ -29,6 +29,8 @@ Some notes are without any specific citations. These are not demarcated in some 
 
 Online locations for references are generally only provided for journal articles, papers, blog posts, and so on, in case of open access (if known). Sources that are really only available online are indicated so by the phrase “Available at [URL]” at the end of a refer-ence. Sources that are also circulating in print form are indicated so by the phrase “Also available at [URL]” at the end of a reference. 
 
+The discussion is rich in standard historical facts about people, wars, and so on. This type of information is not foreseen with citations, but can be acquired from standard encyclopedias. 
+
 
 ## English legal citations
 
@@ -37,6 +39,22 @@ For readers not familiar with English legal notation, please note the following.
 Acts of Parliament typically have a short name which includes a date. Before 1963, the year often refers to starting year of the responsible Parliamentary session. It is not necessarily the same year that the act was passed by Parliament and granted royal assent. 
 
 For example, in 1720, the *Bubble Act 1719*, was passed by Parliament and granted royal assent. As the Parliamentary session started in 1719, however, the official short name is *Bubble Act 1719*. In the literature, authors sometimes attempt to avoid confusion by using the *Bubble Act 1720* as a short name. However, we will stick here to official short names. 
+
+
+## Historical periods and dates
+
+The historical periods maintained in the discussion are fairly standard. The main periods mentioned in the text are as follows:
+
+* Antiquity: c. 3000 BC – 500 AD
+* Early Middle Ages: c. 500 – 1000 AD
+* High Middle Ages: c. 1000 – 1300 AD
+* Late Middle Ages: c. 1300 – 1500
+* Early modern period: c. 1500 – 1800
+* Modern period: c. 1800 – 1945
+
+For the United States, our main division is between Colonial America (c. 1607 – 1776) and the post-colonial period. 
+
+Historical figures are specified either by the period of their life or by the period of their reign. In the latter case, the period is preceded by an "r." In this manner, for instance, the life of Henry II would be indicated by the period "1133 – 1189", while his reign would be indicated as "r. 1154 – 1189". 
 
 
 ## Contributions
@@ -66,15 +84,18 @@ Third, copying and distributing any historical state of the repository is permit
 
 ## Current progress
 
-At the moment, I am working on the first part of the book called *Money, Payments, and Banking*. It will consist of an introduction and eight chapters. The chapters are as follows:
+At the moment, I am working on the first part of the book called *Money, Payments, and Banking*. It will consist of eleven chapters. The chapters are as follows:
 
-* Chapter 1: Banks and banking
-* Chapter 2: Joint stock companies and corporations
-* Chapter 3: Merchant banks
-* Chapter 4: Deposit banks
-* Chapter 5: The American history of money, payments, and banking
-* Chapter 6: Bank payments
-* Chapter 7: Beyond bank payments
-* Chapter 8: Money
+* Chapter 1: Banks and Banking
+* Chapter 2: Joint Stock Companies and Corporations
+* Chapter 3: The Commercial Revolution
+* Chapter 4: Pre-modern coinage
+* Chapter 5: Coins and accounts
+* Chapter 6: Merchant banks
+* Chapter 7: Deposit banks
+* Chapter 8: The American history of money, payments, and banking
+* Chapter 9: Bank payments
+* Chapter 10: Beyond bank payments
+* Chapter 11: Money
 
-At the moment, completed initial drafts of the *Introduction*, *Chapter 1*, *Chapter 2*, and *Chapter 3* have been committed, as well as near complete drafts of *Chapter 5* and *Chapter 6*.  
+At the moment, completed initial drafts of the *Introduction* and most of the chapters of the first part of the book can be found in the repository. 

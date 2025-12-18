@@ -2,14 +2,19 @@
 
 ## Key terms
 
-Key terms are emphasized via boldface when they are first introduced and/or described. For instance, the term "bitcoind" would look as follows: **bitcoind**. All the key terms are captured in a glossary. 
+Key terms are emphasized via boldface at the point of their main description. For instance, the term "bitcoind" followed by its primary description in the text would look as follows: **bitcoind**. All the key terms are captured in a glossary. 
 
-Typically, the first introduction of the term would be accompanied by a further description. For exceptions, the term is emphasized both when it is introduced and when it is described. 
+Typically, the first introduction of a term is accompanied by a further description. Sometimes, however, the primary description of the term only follows at a later point.  
 
 
 ## Emphasized words and phrases
 
-Words and phrases are emphasized via boldface and italics. For instance, the phrase "Remember your password" would look as follows: ***Remember your password***. 
+Words and phrases are emphasized via italics. For instance, the phrase "Remember your password" would look as follows: *Remember your password*.
+
+
+## Foreign words
+
+Foreign words and phrases are standardly in italics, unless they are sufficiently common in English. 
 
 
 ## Instructions

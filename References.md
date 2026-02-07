@@ -1,5 +1,13 @@
 # References
 
+Abels, Richard. 2009. The historiography of a construct: "Feudalism" and the medieval historian. *History Compass*, 7, 1008-1031. 
+
+Acemoglu, Daron and James Robinson. 2012. *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*. London: Profile Books. 
+
+Acemoglu, Daron and Simon Johnson. 2024. *Power and Progress: Our Thousand-Year Struggle over Technology and Prosperity*. 
+
+Acemoglu, Daron, Simon Johnson, and James Robinson. 2005. The rise of Europe: Atlantic trade, institutional change, and economic growth. The American Economic Review, 95, 546–79. 
+
 Acheson, Noel, Charles Hickson, and John Turner. 2010. Does limited liability matter? Evidence from nineteenth-century British banking. *Review of Law & Economics*, 6, 247-273.  
 
 Allen, Martin. 2007. Henry II and the English coinage. In *Henry II: New Interpretations*, ed. C. Harper-Bill and N. Vincent, 257-77. Woodbridge, England: The Boydell Press. 
@@ -17,6 +25,8 @@ Anonymous. 1676a. Mystery of the new fashioned goldsmiths or bankers: Their rife
 Anonymous. 1676b. Is not the hand of Joab in all this? Or an enquiry into the grounds of a late pamphlet intituled, the mystery of the new-fashioned-goldsmiths, or bankers, &c. and answering the exceptions in it to the bankers trade. London. Available from the *Early English Books Online* collection. 
 
 Aristotle. 1996. *The Politics*. In *The Politics and the Constitution of the Athens*, ed. S. Everson, 9–208. Cambridge: Cambridge University Press. 
+
+Bairoch, Paul. 1988. *Cities and Economic Development: From the Dawn of History to the Present*, trans. C. Braider. Chicago: Chicago University Press.  
 
 Bank of England. n.d. Index to the book of the subscriptions 1694. Available at [https://www.bankofengland.co.uk/-/media/boe/files/archive/original-bank-subscribers/1694.pdf](https://www.bankofengland.co.uk/-/media/boe/files/archive/original-bank-subscribers/1694.pdf). 
 
@@ -38,19 +48,23 @@ Benson, Bruce. 1989. The spontaneous evolution of commercial law. *Southern Econ
 
 Benson, Carol Coye, Scott Loftesness, and Russ Jones. 2017. *Payments Systems in the U.S.: A Guide for the Payments Professional*. San Francisco: Glenbrook Press. 
 
+Blaydes, Lisa and Eric Chaney. 2013. The feudal revolution and Europe's rise: Political divergence of the Christian West and the Muslim world before 1500 CE. *The American Political Science Review*, 107, 16-34. 
+
 Board of Governors of the Federal Reserve System (BGFRS). 2014. The FedWire Funds Service: Assesment of compliance with the core principles for systematically important payment systems. Washington, D.C.: BGFRS. Available at [https://www.federalreserve.gov/paymentsystems/files/fedfunds_coreprinciples.pdf](https://www.federalreserve.gov/paymentsystems/files/fedfunds_coreprinciples.pdf). 
 
 Board of Governors of the Federal Reserve System (BGFRS). 2024. Master account and services database. BGFRS website. Available at [https://www.federalreserve.gov/paymentsystems/master-account-and-services-database-about.htm](https://www.federalreserve.gov/paymentsystems/master-account-and-services-database-about.htm).  
 
 Boyer-Xambue, Marie-Thérèse, Ghislaine Deleplace, and Lucien Gillard. *Private Money and Public Currencies: The 16th Century Challenge*, transl. A. Azodi. Armonk, NY: M.E. Sharpe. 
 
-Bridbury, . \[1962\] 2018. *Economic Growth: England in the Later Middle Ages*. Abingdon, UK: Routledge. 
+Bridbury, Anthony. \[1962\] 2018. *Economic Growth: England in the Later Middle Ages*. Abingdon, UK: Routledge. 
 
 Bromberg, Benjamin. 1942. The origin of banking: Religious finance in Babylonia. *The Journal of Economic History*, 2, 77-88. 
 
 Broz, J. Lawrence and Richard Grossman. 2004. Paying for privilege: The political economy of Bank of England charters, 1694-1844. *Explorations in Economic History, 41, 48-72. 
 
 Bryan, Michael. 2004. Island money. *Economic Commentary*, Federal Reserve Bank of Cleveland, February 1. Available at [https://www.clevelandfed.org/publications/economic-commentary/2004/ec-20040201-island-money](https://www.clevelandfed.org/publications/economic-commentary/2004/ec-20040201-island-money). 
+
+Burckhardt, Jacob. \[1878\] 1914. The Civilisation of the Renaissance in Italy. Trans. S.G.C. Middlemore. London: George Allen.
 
 Butler, Henry. 1986. General incorporation in nineteenth century England: Interaction of common law and legislative processes. *International Review of Law and Economics*, 6, 169-87. 
 
@@ -92,8 +106,6 @@ De Maulde, René. 1878. In *Nouvelle revue historique de droit français et étr
 
 De Meyer, Godelieve en Everard Van Den Elzen. 1980. Van geschenk tot getal: Geschiedenis van een hoofse rekenmunt. *Revue Belge de Philologie et d'Histoire*, 58, 317-36. 
 
-Denzel, Markus. 2025. International fairs as money, credit, and exchange markets, from the twelfth to the sixteenth centuries. In *Fairs, Cities, and Merchants: Spatiotemporal analyses (14th-17th century), ed. J.-L. Gaulin and S. Rau, 245-68. Berlin: Walter de Gruyter. 
-
 De Pleijt, Alexandra and Jan Van Zanden. 2024. Preindustrial economic growth: Ca. 1270-1820. In *Handbook of Cliometrics*, ed. C. Diebolt and M. Haupert, 681-697. Berlin: Springer-Verlag. 
 
 De Roover, Florence. 1940. The business records of an early Genoese notary. *Bulletin of the Business Historical Society*, 14, 41-46. 
@@ -111,6 +123,12 @@ De Roover, Raymond. 1954 \[1974\]. New interpretations of the history of banking
 De Roover, Raymond. 1963a. The organization of trade. In *The Cambridge Economic History of Europe*, vol. 3, ed. M. Postan and H. Habbakuk, 42-118. London: Cambridge University Press.  
 
 De Roover, Raymond. 1963b. *The Rise and Decline of the Medici Bank: 1397-1494*. Cambridge, MA: Harvard University Press. 
+
+Dean, Trevor and Daniel Waley. 2023. *The Italian City-Republics*, 5th edn. Abingdon: Routledge. 
+
+DeLong, James and Andrei Shleifer. 1993. Princes and merchants: European city growth before the industrial revolution. *Journal of Law and Economics*, 36, 671–702. 
+
+Denzel, Markus. 2025. International fairs as money, credit, and exchange markets, from the twelfth to the sixteenth centuries. In *Fairs, Cities, and Merchants: Spatiotemporal analyses (14th-17th century), ed. J.-L. Gaulin and S. Rau, 245-68. Berlin: Walter de Gruyter. 
 
 Deutsch, Gotthard and Joseph Jacobs. 1906. Banking. In the *1906 Jewish Encyclopedia: A Descriptive Record of the History, Religion, Literature, and Customs of the Jewish People from the Earliest Times to the Present Day*, ed. I. Singer, 491-3. New York: Funk and Wagnalls. Also available at [https://jewishencyclopedia.com/articles/2444-banking](https://jewishencyclopedia.com/articles/2444-banking). 
 
@@ -154,6 +172,8 @@ Federal Reserve System. 2024. Fedwire funds service: Monthly statistics. Availab
 
 Ferris, Eleanor. 1902. The financial relations of the Knights Templars to the English Crown. *The American Historical Review*, 8, 1-17. 
 
+Finlay, Robert. 1980. Politics in Renaissance Venice. New Brunswick, NJ: Rutgers Universi-ty Press.
+
 Flynn, David. 2008. Credit in the colonial American economy. In *EH.Net Encyclopedia*, ed. R. Whaples. Available at [https://eh.net/encyclopedia/credit-in-the-colonial-american-economy/](https://eh.net/encyclopedia/credit-in-the-colonial-american-economy/). 
 
 FNA. 2023. CHIPS review: Assessing the efficiency of CHIPS. London: FNA. Available at [https://media.theclearinghouse.org/-/media/New/TCH/Documents/Payment-Systems/FNA_CHIPS_Review_Public_Distribution_January_2023.pdf](https://media.theclearinghouse.org/-/media/New/TCH/Documents/Payment-Systems/FNA_CHIPS_Review_Public_Distribution_January_2023.pdf). 
@@ -173,6 +193,8 @@ Gabrielsen, Vincent. 2005. Banking and credit operations in Hellenistic times. I
 Galbraith, John. 1993. *A Short History of Financial Euphoria*. New York: Viking Penguin. 
 
 Gandal, Neil and Nathan Sussman. 1997. Assymetric information and commodity money: Tickling the tolerance in medieval France. *Journal of Money, Credit and Banking*, 29, 440-57. 
+
+Ganshof, François Louis. 1952. *Feudalism*, trans. P. Grierson.London: Longmans, Green. 
 
 Gelderblom, Oscar, Abe De Jong, and Joost Jonker. 2013. The formative years of the modern corporation. *Journal of Economic History*, 73, 1050-76. 
 
@@ -225,6 +247,8 @@ Harrison-Mills, Douglas. 2023. *Serving at the Banking-Tables: New Lights on Act
 Herbst-Murphy, Susan. 2013. Clearing and settlement of interbank card transactions: A MasterCard tutorial for the Federal Reserve payments analysts. Payment cards center discussion paper series, Federal Reserve Bank of Philadelphia, No. 13-1. Available at [https://www.philadelphiafed.org/-/media/frbp/assets/consumer-finance/discussion-papers/d-2013-october-clearing-settlement.pdf](https://www.philadelphiafed.org/-/media/frbp/assets/consumer-finance/discussion-papers/d-2013-october-clearing-settlement.pdf). 
 
 Herbst-Murphy, Susan. 2018. Credit card landscape update. Payment cards center discussion paper series, Federal Reserve Bank of Philadelphia, No. 18-1. Available at [https://www.philadelphiafed.org/-/media/frbp/assets/consumer-finance/discussion-papers/dp18-01.pdf](https://www.philadelphiafed.org/-/media/frbp/assets/consumer-finance/discussion-papers/dp18-01.pdf). 
+
+Herlihy, David. 1967. *Medieval and Renaissance Pistoia: The Social History of an Italian Town, 1200-1430*. New Haven, CN: Yale University Press. 
 
 Hilt, Eric. 2017. Corporation law and the general shift toward open access in the antebellum United States. In *Organizations, Civil Society, and the Roots of Development*, ed. N. Lamoreaux and J. Wallis, 147-77. Chicago: University of Chicago Press. 
 
@@ -322,6 +346,8 @@ Lane, Frederic. 1973. *Venice: A Maritime Republic*. Baltimore: The Johns Hopkin
 
 Lee, Geoffrey. 1977. The coming of age of double entry: The Giovanni Farolfi ledger of 1299-1300. *The Accounting Historians Journal*, 4, 79-95. 
 
+Lintott, Andrew. 2003. *The Constitution of the Roman Republic*. Oxford: Oxford University Press. 
+
 Lipton, Phillip. 2016. The evolution of the English joint stock company to 1800: An institutional perspective. *Monash University Department of Business Law & Taxation Research Paper*, no. 19. Available at [https://ssrn.com/abstract=1413502](https://ssrn.com/abstract=1413502).  
 
 Lopez, Robert. 1976. *The Commercial Revolution of the Middle Ages, 950-1350*. Cambridge: Cambridge University Press. 
@@ -360,6 +386,8 @@ Miskimin, Harry. 1983. Money and money movements in France and England at the en
 
 Moen, Jon, and Ellis Tallman. Close but not a central bank: The New York Clearing House and issues of clearing house loan certificates. *Federal Reserve Bank of Cleveland Working Paper*, no. 13-08. Available at [https://www.clevelandfed.org/publications/working-paper/2013/wp-1308-close-but-not-a-central-bank-ny-clearing-house-issues-of-clearing-house-loan-certificates](https://www.clevelandfed.org/publications/working-paper/2013/wp-1308-close-but-not-a-central-bank-ny-clearing-house-issues-of-clearing-house-loan-certificates). 
 
+Montesquieu. \[1748\] 1989. *The Spirit of the Laws*, trans. A. Cohler, B. Miller, and H. Stone. Cambridge: Cambridge University Press. 
+
 Moss, David. 2010. The Dojima rice market and the origins of futures trading. *Harvard Business School Case*, no. 709-044. 
 
 Mueller, Reinhold and Frederic Lane. \[1985\] 2019. *Money and Banking in Medieval and Renaissance Venice: Volume I; Coins and Moneys of Account*. Baltimore: Johns Hopkins University Press. 
@@ -376,6 +404,10 @@ Munro, John. 2025. The bill of exchange, draft, or acceptance bill. Website. Ava
 
 Nacha. 2024. ACH network volume and value statistics. Herndon, Virginia: Nacha. Available at [https://www.nacha.org/content/ach-network-volume-and-value-statistics](https://www.nacha.org/content/ach-network-volume-and-value-statistics).  
 
+Najemy, John. 1982. *Corporatism and Consensus in Florentine Electoral Politics, 1280–1400*. Chapel Hill: University of North Carolina Press. 
+
+Najemy, John. 2006. *A History of Florence, 1200–1575*. Oxford: Blackwell Publishing.
+
 Nath, Aditya. 2021. Aaron of Lincoln: The jewish financier and the wealthiest man of 12th century England. *Journal of Research in Humanities and Social Science*, 9, 50-3. 
 
 NatWest Group. 2025. Messrs Drummond. Website. Available at [https://www.natwestgroup.com/heritage/companies/messrs-drummond.html](https://www.natwestgroup.com/heritage/companies/messrs-drummond.html). 
@@ -386,6 +418,8 @@ Nightingale, Pamela. \[1985\] 2007. The evolution of weight-standards and the cr
 
 Nilson Report. 2023. 
 
+North, Oliver and Barry Weingast. 1989. Constitutions and commitment: The evolution of institutions governing public choice in seventeenth-century England. *The Journal of Economic History*, 49, 803–32. 
+
 Office of the Comptroller of the Currency (OCC). 2004. *Comptroller's Handbook: Related Organizations*. Washington, D.C.: OCC. Also available at [https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/related-organizations/pub-ch-related-organizations.pdf](https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/related-organizations/pub-ch-related-organizations.pdf). 
 
 Office of the Comptroller of the Currency (OCC). 2021. *Comptroller's Licensing Manual: Charters*. Washington, D.C.: OCC. Also available at [https://www.occ.gov/publications-and-resources/publications/comptrollers-licensing-manual/files/charters.pdf][https://www.occ.gov/publications-and-resources/publications/comptrollers-licensing-manual/files/charters.pdf]. 
@@ -393,6 +427,8 @@ Office of the Comptroller of the Currency (OCC). 2021. *Comptroller's Licensing 
 Ohlmeyer, Jane. 2025. English Civil Wars. In *Encyclopaedia Britannica*. Available at [https://www.britannica.com/event/English-Civil-Wars](https://www.britannica.com/event/English-Civil-Wars). 
 
 Padgett, John and Paul McLean. 2006. Organizational invention and elite transformation: The birth of partnership systems in Renaissance Florence. *The American Journal of Sociology*, 111, 1463-1568. 
+
+Parker, Geoffrey. 1974. The emergence of modern finance in Europe. In *The Fontana Economic History of Europe: The Sixteenth and Seventeenth Centuries*, ed. C. Cipolla, 527-594. Glasgow: William Collins Sons. 
 
 Perkins, Edwin. 1988. *The Economy of Colonial America*, 2nd edn. *The Economy of Colonial America*. New York: Columbia University Press. 
 
@@ -434,6 +470,8 @@ Redish, Angela. 2024. Bimetallism. In *Handbook of Cliometrics*, 3rd edn., ed. C
 
 Redish, Angela and Warren Weber. 2011. A model of commodity money with minting and melting. *Research Report*, Federal Reserve Bank of Minneapolis, 460. Available at [https://www.minneapolisfed.org/research/staff-reports/a-model-of-commodity-money-with-minting-and-melting](https://www.minneapolisfed.org/research/staff-reports/a-model-of-commodity-money-with-minting-and-melting). 
 
+Reynolds, Susan. 1994. *Fiefs and Vassals: The Medieval Evidence Reinterpreted*. Oxford: Clarendon Press. 
+
 Richards, Richard. 1927. The evolution of paper money in England. *The Quarterly Journal of Economics*, 41, 361-404. 
 
 Richards, Richard. \[1958\] 2012. *The Early History of Banking in England*, rev. edn. Abingdon, England: Routledge. 
@@ -445,6 +483,8 @@ Rolnick, Arther, François Velde, and Warren Weber. 1997. The debasement puzzle:
 Rolnick, Arthur and Warren Weber. 1986. Gresham's law or Gresham's fallacy? *Journal of Political Economy*, 94, 185-99. 
 
 Royo, José Antonio Mateos. 2012. The burdens of tradition: Debasements, coinage circulation and mercantilist public policy debates in seventeenth-century Aragon. In *Money in the Pre-Industrial World*, ed. J. Munro, 111-28. London: Routledge. 
+
+Rubinstein, Nicolai. 1997. The Government of Florence Under the Medici (1434 to 1494). 2nd ed. Oxford: Oxford University Press.
 
 Sangster, Alan. 2025a. The diffusion of double entry bookkeeping before 1800: Establishing a new research agenda. *Accounting Historians Journal*, 52, 95-113. 
 
@@ -464,6 +504,8 @@ Selgin, George. 2012. Those dishonest goldsmiths. *Financial History Review*, 19
 
 Shirai, Sayuri, and Eric Alexander Sugandi. 2019. What explains the global growing demand for cash? *ADBI Working Paper Series*, no. 10006. Available at [https://www.adb.org/sites/default/files/publication/526906/adbi-wp1006.pdf](https://www.adb.org/sites/default/files/publication/526906/adbi-wp1006.pdf).
 
+Sigurðsson, Jón Viðar. 2013. The Icelandic aristocracy after the fall of the free state. *Scandinavian Journal of History*, 20, 153–166. 
+
 Skinner, Patricia, ed. 2003. *The Jews in Medieval Britain: Historical, Literal, and Archeological Perspectives*. Woodbridge, England: The Boydell Press. 
 
 Smith, Adam. \[1776\] 1976. *An Inquiry into the Nature and Causes of the Wealth of Nations*. Ed. E. Cannan. Chicago: The University of Chicago Press. 
@@ -477,6 +519,8 @@ Spufford, Peter. 1988. *Money and Its Use in Medieval Europe*. Cambridge: Cambri
 Spufford, Peter. 2016. *Debasement of the coinage and its effect on exchange rates and the economy: In England in the 1540s, and in the Burgundian-Hapsburg Netherlands in the 1480s. In *Money in the Pre-Industrial World*, ed. J. Munro, 63-85. London: Routledge. 
 
 Stahl, Alan. 2016. The making of a gold standard: The ducat and its offspring, 1284-2001. In *Money in the Pre-Industrial World*, ed. J. Munro, 45-62. London: Routledge. 
+
+Stasavage, David. 2010. When distance mattered: Geographic scale and the development of European assemblies. The American Political Science Review, 104, 625–43.  
 
 Sterba, Richard. 1976. The organization and management of the ancient temple corporations in Ancient Mesopotamia. *The Academy of Management Review*, 1, 16-26.  
 
@@ -516,6 +560,10 @@ Van Werveke, Hans. 1934. Monnaie de compte et monnaie  réelle. *Revue Belge de 
 
 Van Werveke. 1963. The rise of towns. In *The Cambridge Economic History of Europe*, vol. 3, ed. M. Postan and H. Habbakuk, 3-41. London: Cambridge University Press. 
 
+Van Zanden, Jan Luiten. 2001. Early modern economic growth: A survey of the European economy, 1500–1800. In *Early Modern Capitalism: Economic and Social Change in Europe, 1400–1800*, ed. M. Prak, 67–84. London: Routledge. 
+
+Van Zanden, Jan Luiten, Eltjo Buringh, and Maarten Bosker. 2012. The rise and decline of European parliaments, 1188–1789. *The Economic History Review*, 65, 835–61. 
+
 Velde, François, Warren Weber, and Randall Wright. 1999. A model of commodity money, with applications to Gresham's law and the debasement puzzle. *Review of Economic Dynamics*, 2, 291-323. 
 
 Velde, François. 2013. On the evolution of specie: Circulation and weight loss in 18th and 19th century coinage. *Revue Numismatique*, 170, 605-50. 
@@ -534,7 +582,11 @@ Weber, Ernst. 1996. "Imaginary" or "real" moneys of account in medieval Europe? 
 
 Weber, Ernst. 2012. Pre-industrial bimetallism: The index coin hypothesis. *Discussion Paper*, no. 09-12. Available at [https://www.researchgate.net/publication/344014568_Pre-Industrial_Bimetallism_The_Index_Coin_Hypothesis](https://www.researchgate.net/publication/344014568_Pre-Industrial_Bimetallism_The_Index_Coin_Hypothesis). 
 
+Weber, Max. \[1905\] 1930. *The Protestant Ethic and the Spirit of Capitalism*, transl. T. Parsons. New York: Charles Scribner's Sons. 
+
 Weiss, Roger. 1970. The issue of paper money in the American colonies, 1720-1774. *The Journal of Economic History*, 30, 770-784. 
+
+West, Charles. 2013. *Reframing the Feudal Revolution: Political and Social Transformation between Marne and Moselle, c. 800–c. 1100*. Cambridge: Cambridge University Press. 
 
 Williams, John and Claire Wang. 2017. Reports of the death of cash are greatly exaggerated. *Federal Reserve Bank of San Francisco Blog*, November 20. Available at [https://www.frbsf.org/research-and-insights/blog/community-development/2017/11/20/reports-death-of-cash-greatly-exaggerated/](https://www.frbsf.org/research-and-insights/blog/community-development/2017/11/20/reports-death-of-cash-greatly-exaggerated/). 
 

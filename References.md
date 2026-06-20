@@ -10,6 +10,8 @@ Acemoglu, Daron, Simon Johnson, and James Robinson. 2005. The rise of Europe: At
 
 Acheson, Noel, Charles Hickson, and John Turner. 2010. Does limited liability matter? Evidence from nineteenth-century British banking. *Review of Law & Economics*, 6: 247–73.  
 
+Alchon, Suzanne. 2003. *A Pest in the Land: New World Epidemics in a Global Perspective*. Albuquerque, NM: University of New Mexico Press. 
+
 Allen, Martin. 2007a. Henry II and the English coinage. In *Henry II: New Interpretations*, ed. C. Harper-Bill and N. Vincent, 257–77. Woodbridge, England: The Boydell Press. 
 
 Allen, Martin. 2007b. The proportions of the denominations in English mint outputs 1351–1485. *British Numismatic Journal*, 77: 190–209.

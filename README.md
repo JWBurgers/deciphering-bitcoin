@@ -84,18 +84,21 @@ Third, copying and distributing any historical state of the repository is permit
 
 ## Current progress
 
-At the moment, I am working on the first part of the book called *Money, Payments, and Banking*. It will consist of eleven chapters. The chapters are as follows:
+At the moment, I am working on the first part of the book called *Money, Payments, and Banking*. It will consist of fourteen chapters. The purpose is to offer the reader a journey into the origins of modern monetary and financial institutions. The chapters are as follows:
 
 * Chapter 1: Banks and Banking
-* Chapter 2: Joint Stock Companies and Corporations
-* Chapter 3: The Commercial Revolution
-* Chapter 4: Pre-modern coinage
-* Chapter 5: Coins and accounts
-* Chapter 6: Merchant banks
-* Chapter 7: Deposit banks
-* Chapter 8: The American history of money, payments, and banking
-* Chapter 9: Bank payments
-* Chapter 10: Beyond bank payments
-* Chapter 11: Money
+* Chapter 2: Europe after Rome
+* Chapter 3: Europe's Economic Rise
+* Chapter 4: The Joint Stock Company
+* Chapter 5: The Modern Corporation
+* Chapter 6: The Commercial Revolution
+* Chapter 7: Pre-Modern Coinage
+* Chapter 8: Coins and Accounts
+* Chapter 9: Merchant Banks
+* Chapter 10: Deposit Banks
+* Chapter 11: Early American Monetary and Financial Institutions
+* Chapter 12: Modern Bank Payments
+* Chapter 13: Beyond bank payments
+* Chapter 14: Modern Money 
 
 At the moment, completed initial drafts of the *Introduction* and most of the chapters of the first part of the book can be found in the repository. 
